@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Questrial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.body{
+    background-color: #192534;
+}
+.back-gradient{
+    background: linear-gradient(to bottom, #c7994a, #192534);
+}
+.bgHome {
+    width: 100%;
+    height: 70px;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
+
+.pfl {
+    background-color: #caa45d;
+    border-style: none;
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 0px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .25);
+}
+.pfl a{
+    color: white;
+    text-decoration: none;
+}
+.pfl:hover{
+    background-color: white;
+    font-weight: 600;
+}
+.pfl:hover a {
+    color: #caa45d;
+}
+
+.title-container {
+    text-align: center;
+    padding: 20px 0;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.title-container h2 {
+    margin: 0;
+    font-family: "Courier Prime", monospace;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.contt{
+    background-color: #192534;
+}    
+.texto{
+    text-align: justify;
+}
+.barr{
+    width: 100%; 
+    background-color: #caa45d;
+}
+footer{
+    color: #c7994a;
+}
+
+.rooms-list a {
+    color: #192534;
+}
+
+.rooms-list h5{
+    font-size: 28px;
+    color:#ffffff;
+    font-weight: 600;
+    text-shadow: 0 0 10px rgba(0, 0, 0, .5);
+}
+
+.button{
+    width: 100%;
+    height: 45px;
+    background: #c7994a;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .15);
+    cursor: pointer;
+    font-size: 16px;
+    color:#ffffff;
+    font-weight: 400;
+}
+.button:hover{
+    background: #ffffff;
+    color:#c7994a;
+}
+
+.button-cancel{
+    width: 100%;
+    height: 45px;
+    background: #ca3737;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .15);
+    cursor: pointer;
+    font-size: 16px;
+    color:#ffffff;
+    font-weight: 200;
+}
+.button-cancel:hover{
+    background: #ffffff;
+    color: #ca3737;
+
+}
+
+.logout-bt {
+    background-color: #ca3737;
+    color: white;
+    border-style: none;
+    border-radius: 8px;
+    height: 40px;
+    width: 100px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 6px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .25);
+}
+.logout-bt:hover{
+    background-color: white;
+    color: #ca3737;
+}
