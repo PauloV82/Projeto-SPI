@@ -5,4 +5,3 @@ Alunos: Flaubert Cauê Dantas, Paulo Victor de Moura Adelino e Sávio Sáron Câ
 
 Ideia proposta pelo nosso grupo:
 Em conjunto foi definido que trabalhamos no desenvolvimento de um sistema de gerenciamento de quartos de hotel.
-
