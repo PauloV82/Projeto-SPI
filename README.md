@@ -1,8 +1,8 @@
-# Hotel Elysian Waves
+# Hotel Elysian Waves 🏨
 
 Projeto desenvolvido para a disciplina de **Programação de Sistemas para a Internet** do professor **Romerito Campos**.
 
-## Equipe
+## Equipe 
 - **Flaubert Cauê Dantas**  
 - **Paulo Victor de Moura Adelino**  
 - **Sávio Sáron Câmara de Araújo**  
