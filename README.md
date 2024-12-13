@@ -1,4 +1,4 @@
-# Elysian Waves
+# Hotel Elysian Waves
 
 Projeto desenvolvido para a disciplina de **Programação de Sistemas para a Internet** do professor **Romerito Campos**.
 
@@ -36,6 +36,6 @@ Siga as etapas abaixo após baixar o nosso projeto para configurar e executar em
 ## Considerações Finais
 
 
-Almejamos atingir 60 pontos e **correr** pro **abraço**! 🤪
+Almejamos atingir **60** pontos e correr pro **abraço**! 🤪
 
 
